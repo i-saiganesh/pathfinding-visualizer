@@ -49,11 +49,5 @@ It demonstrates core Computer Science fundamentals:
     npm start
     ```
 4.  **Visualize:** Drag the **Start Node**, draw **Walls**, and select an algorithm like **Dijkstra** or **A***.
-
-## 🔮 Future Roadmap
-* [ ] Implement **Bi-directional Swarm Algorithm** for double-ended search.
-* [ ] Add **Weighted Nodes** (Mud/Traffic) to simulate terrain costs.
-* [ ] Implement **3D Visualization** using Three.js.
-
 ---
 **Built with 💻 by Ganesh**
