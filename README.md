@@ -1,4 +1,4 @@
-# Pathfinding Visualizer. | Algorithmic Graph Engine
+# Pathfinding Visualizer. | Algorithmic Graph Engine.
 
 ### 🚀 A pure-React engine utilizing Graph Theory for real-time visualization.
 
